@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Ritik+%F0%9F%91%8B;Full-Stack+Developer;React+%7C+Performance+%7C+Clean+UI" />
 </p>
-
 <p align="center">
   <a href="https://linkedin.com/in/soni-ritik" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
@@ -36,15 +35,6 @@
 - 🧩 Scalable, reusable component systems
 - 📊 Complex UI (tables, drag & drop, dashboards)
 - 🛒 MVPs & business-ready web apps
-
----
-
-### 📌 Selected Work
-- **React UI Systems** – maintainable, scalable components  
-- **E-commerce MVP** – cart + WhatsApp ordering flow  
-- **Advanced Tables** – Ant Design + @dnd-kit optimization  
-
-> *Pinned repositories below 👇*
 
 ---
 
